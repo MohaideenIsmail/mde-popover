@@ -1,10 +1,10 @@
 # Angular Popover
 
-![npm (scoped)](https://img.shields.io/npm/v/%40muntazir86/material-extended?link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40muntazir86%2Fmaterial-extended)
+![npm (scoped)](https://img.shields.io/npm/v/material-extended-v2?link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fmaterial-extended-v2)
 
 #### Links
-[Popover Demo](https://muntazir86.github.io/mde-popover/) | [StackBlitz Template](https://stackblitz.com/edit/stackblitz-starters-6n5dqd) | 
-[Documentation](https://github.com/Muntazir86/mde-popover/blob/master/projects/muntazir/material-extended/src/lib/popover/popover.md)
+[Popover Demo](https://github.com/MohaideenIsmail/mde-popove/) | [StackBlitz Template](https://stackblitz.com/edit/stackblitz-starters-6n5dqd) | 
+[Documentation](https://github.com/MohaideenIsmail/mde-popove/blob/master/projects/material-extended/src/lib/popover/popover.md)
 
 
 
@@ -43,7 +43,7 @@ If you'd like to contribute please create an issue or pull request.
 ### Installation
 Install npm package using:
 
-`npm install @muntazir86/material-extended`
+`npm install /material-extended-v2`
 
 Install required packages @angular/cdk
 
@@ -65,7 +65,7 @@ import { NgModule } from '@angular/core';
 
 
 import { AppComponent } from './app.component';
-import { MdePopoverModule } from '@muntazir86/material-extended';
+import { MdePopoverModule } from 'material-extended-v2';
 
 @NgModule({
   declarations: [
@@ -187,7 +187,7 @@ Removes the popover from the DOM.
 
 ### Issues
 
-Please report bugs and issues [here](https://github.com/Muntazir86/mde-popover/issues).
+Please report bugs and issues [here](https://github.com/MohaideenIsmail/mde-popove/issues).
 
 ### 
 

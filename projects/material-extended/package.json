@@ -1,5 +1,5 @@
 {
-  "name": "@muntazir86/material-extended",
+  "name": "material-extended-v2",
   "version": "6.1.0",
   "peerDependencies": {
     "@angular/animations": "^17.0.6",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Muntazir86/mde-popover.git"
+    "url": "git+https://github.com/MohaideenIsmail/mde-popover.git"
   },
   "keywords": [
     "angular",
@@ -27,7 +27,7 @@
   "author": "Ghulam Shabbir",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Muntazir86/mde-popover/issues"
+    "url": "https://github.com/MohaideenIsmail/mde-popover/issues"
   },
-  "homepage": "https://github.com/Muntazir86/mde-popover#readme"
+  "homepage": "https://github.com/MohaideenIsmail/mde-popover#readme"
 }
